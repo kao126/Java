@@ -7,7 +7,7 @@ public class Chapter04 {
 		str = "Kyle";
 		System.out.println(str);
 
-		int NUM = 7;
+		final int NUM = 7;
 		System.out.println(NUM);
 	}
 }
